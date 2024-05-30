@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "makefile.makefilePath": "C:\\Users\\ismai\\OneDrive\\Bureau\\Programation 2\\tds\\td3\\exe4"
+}
